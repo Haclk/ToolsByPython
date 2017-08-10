@@ -1,3 +1,4 @@
+#给文件名添加扩展名后缀
 #encoding=utf-8
 import os;
 def rename():
